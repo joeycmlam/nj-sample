@@ -28,8 +28,9 @@
 
 
 ## set up project
- $nest new recTool
- $npm install --save @nestjs/swagger swagger-ui-express
+$ nest new recTool
+$ npm install --save @nestjs/swagger swagger-ui-express
+$ http://localhost:3000/api/
 
 ## Installation
 
@@ -62,9 +63,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-# start up swagger
-$ http://localhost:3000/api/
 
 ## Support
 
