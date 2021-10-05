@@ -26,6 +26,11 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+
+## set up project
+ $nest new recTool
+ $npm install --save @nestjs/swagger swagger-ui-express
+
 ## Installation
 
 ```bash
